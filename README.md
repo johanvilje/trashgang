@@ -1,0 +1,2 @@
+# trashgang
+primeiro jogo
